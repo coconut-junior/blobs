@@ -1,0 +1,29 @@
+
+* {
+
+}
+
+body {
+	display: flex;
+  overflow: hidden;
+  align-items: center;
+  justify-content: center;
+  background: black;
+  margin: 100;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: auto;
+
+}
+
+canvas {
+	margin:auto;
+	width: 100%;
+}
